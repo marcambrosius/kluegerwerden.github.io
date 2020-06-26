@@ -5,5 +5,7 @@ Thank you very much and have a good time.
 * Erster
 * Zweiter
 * Dritter
+
 Wie er sagt:
 > Guten Morgen!
+<img src="https://upload.wikimedia.org/wikipedia/de/1/1f/DonaldDuck.jpg"/>
